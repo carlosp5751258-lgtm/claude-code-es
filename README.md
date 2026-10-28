@@ -15,7 +15,7 @@ cp hooks/settings.ejemplo.json .claude/settings.json   # o fusiona la sección "
 
 ## ¿Quieres el kit completo?
 **[Kit Claude Code en Español](https://claudecodees.gumroad.com/l/kit-claude-code-es)**: 6 skills, 4 comandos (`/plan`, `/pr`, `/explicar`, `/arreglar-tests`),
-5 plantillas CLAUDE.md (Node, Python, Next.js, Django, monorepo), autoformato, notificaciones e instalador. 9 USD.
+5 plantillas CLAUDE.md (Node, Python, Next.js, Django, monorepo), autoformato, notificaciones e instalador. Paga lo que quieras desde 1 USD.
 
 Página del proyecto: https://carlosp5751258-lgtm.github.io/claude-code-es/
 
