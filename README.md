@@ -34,3 +34,17 @@ Licencia MIT (solo esta versión gratuita).
 | [Pack Dockerfiles Optimizados](https://claudecodees.gumroad.com/l/dockerfiles-optimizados) | Node, Next.js, FastAPI, Go + compose |
 | [Plantillas de Documentación para GitHub](https://claudecodees.gumroad.com/l/plantillas-docs-github) | README, CONTRIBUTING, SECURITY, issue forms, PR, CHANGELOG |
 | [Pack 12 Scripts Bash](https://claudecodees.gumroad.com/l/scripts-bash-devs) | Limpieza, backups, git, puertos, SSL y más |
+
+## Tutoriales gratis en español
+- [Cómo evitar que Claude Code borre tu proyecto: hooks de seguridad](https://dev.to/carlosp5751258lgtm/como-evitar-que-claude-code-borre-tu-proyecto-hooks-de-seguridad-en-5-minutos-2p0l)
+- [Tu primera skill de Claude Code en 10 minutos](https://dev.to/carlosp5751258lgtm/tu-primera-skill-de-claude-code-en-10-minutos-en-espanol-5795)
+- [El CLAUDE.md perfecto para proyectos Python](https://dev.to/carlosp5751258lgtm/el-claudemd-perfecto-para-proyectos-python-plantilla-lista-para-copiar-21ka)
+- [Hooks en Claude Code: bloquea comandos peligrosos](https://dev.to/carlosp5751258lgtm/hooks-en-claude-code-bloquea-comandos-peligrosos-con-un-script-de-20-lineas-3dln)
+- [Cómo pedirle a la IA que depure tu código (sin que adivine)](https://dev.to/carlosp5751258lgtm/como-pedirle-a-la-ia-que-depure-tu-codigo-sin-que-adivine-fdo)
+- [Cómo borrar ramas de git ya fusionadas sin miedo](https://dev.to/carlosp5751258lgtm/como-borrar-ramas-de-git-ya-fusionadas-sin-miedo-script-bash-con-dry-run-58ba)
+- [Tu primer CI en GitHub Actions con matriz de versiones](https://dev.to/carlosp5751258lgtm/tu-primer-ci-en-github-actions-con-matriz-de-versiones-explicado-en-espanol-3l2h)
+- [Valida Conventional Commits con un hook de git en bash](https://dev.to/carlosp5751258lgtm/valida-conventional-commits-con-un-hook-de-git-en-bash-sin-instalar-nada-487l)
+- [Dockerfile multi-stage para Go: de 800 MB a menos de 20 MB](https://dev.to/carlosp5751258lgtm/dockerfile-multi-stage-para-go-de-800-mb-a-menos-de-20-mb-32mc)
+- [Un CLAUDE.md que Claude Code sí respeta: ejemplo con Terraform](https://dev.to/carlosp5751258lgtm/un-claudemd-que-claude-code-si-respeta-ejemplo-real-con-terraform-1ff1)
+- [Crea una skill de Claude Code para migraciones de BD](https://dev.to/carlosp5751258lgtm/crea-una-skill-de-claude-code-para-migraciones-de-base-de-datos-sin-sustos-3j95)
+- [Formularios de issues en GitHub](https://dev.to/carlosp5751258lgtm/formularios-de-issues-en-github-deja-de-recibir-reportes-de-error-incompletos-1p8)
